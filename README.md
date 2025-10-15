@@ -59,7 +59,7 @@
       <h3>🎧 Now Listening On Spotify</h3>
       <p align="center">
         <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=kinkinxp&redirect=true">
-          <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=kinkinxp&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false&profanity=false">
+          <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=kinkinxp&cover_image=true&theme=compact&show_offline=true&background_color=121212&interchange=false&profanity=false">
         </a>
       </p>
     </td>
