@@ -13,16 +13,17 @@
     <br>
   </em> 
 </p>
-
+<!--
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm1hMWx1MHlwbmJ2aHU3MGtibmI5NjFjaGh3ZTRkbHR3YWtkNjZtNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif"alt=""/>
 </p>
+-->
 
 ---
 
 <table border="0" cellpadding="10" cellspacing="0">
   <tr>
-    <td valign="top">
+    <td valign="top" width="30%">
       <h3>🛠️ My Tools & Technologies</h3>
       <p align="center">
         <strong>Languages & Frameworks:</strong>
@@ -46,7 +47,7 @@
         </a>
       </p>
     </td>
-    <td valign="top">
+    <td valign="top" width="40%">
       <h3>📊 My GitHub Stats</h3>
       <p align="center">
         <a href="https://github.com/retrograderz">
@@ -64,15 +65,15 @@
         </a>
       </p>
     </td>
-    <td valign="top">
+    <td valign="top" width="30%">
       <h3>🎧 Now Listening On Spotify</h3>
       <p align="center">
         <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=kinkinxp&redirect=true">
-          <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=kinkinxp&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false&profanity=false" width="300px">
+          <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=kinkinxp&cover_image=true&theme=compact&show_offline=true&background_color=121212&interchange=false&profanity=false" />
         </a>
       </p>
       <p align="center">
-         <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3emlmbDRrOXN3N2N4cnVtaXByNmk3cjFoaDF0Z2Ywd3JucmJycGgzciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/AbPNJPWZEkBcON0d73/giphy.gif" width="300px">
+         <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3emlmbDRrOXN3N2N4cnVtaXByNmk3cjFoaDF0Z2Ywd3JucmJycGgzciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/AbPNJPWZEkBcON0d73/giphy.gif" />
       </p>
     </td>
   </tr>
