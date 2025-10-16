@@ -14,6 +14,10 @@
   </em> 
 </p>
 
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm1hMWx1MHlwbmJ2aHU3MGtibmI5NjFjaGh3ZTRkbHR3YWtkNjZtNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif"alt=""/>
+</p>
+
 ---
 
 <table border="0" cellpadding="10" cellspacing="0">
@@ -46,12 +50,17 @@
       <h3>📊 My GitHub Stats</h3>
       <p align="center">
         <a href="https://github.com/retrograderz">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=retrograderz&layout=compact&langs_count=8&theme=tokyonight"/>
+          <img src="https://github-readme-stats.vercel.app/api?username=retrograderz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
         </a>
       </p>
       <p align="center">
         <a href="https://github.com/retrograderz">
-          <img src="https://github-readme-stats.vercel.app/api?username=retrograderz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+          <img src="https://nirzak-streak-stats.vercel.app/?user=retrograderz&theme=tokyonight&hide_border=false"/>
+        </a>
+      </p>
+      <p align="center">
+        <a href="https://github.com/retrograderz">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=retrograderz&layout=compact&langs_count=8&theme=tokyonight"/>
         </a>
       </p>
     </td>
@@ -59,7 +68,7 @@
       <h3>🎧 Now Listening On Spotify</h3>
       <p align="center">
         <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=kinkinxp&redirect=true">
-          <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=kinkinxp&cover_image=true&theme=compact&show_offline=true&background_color=121212&interchange=false&profanity=false">
+          <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=kinkinxp&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false&profanity=false">
         </a>
       </p>
     </td>
