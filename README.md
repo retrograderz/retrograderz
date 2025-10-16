@@ -71,6 +71,9 @@
           <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=kinkinxp&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false&profanity=false">
         </a>
       </p>
+      <p align="center">
+         <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3emlmbDRrOXN3N2N4cnVtaXByNmk3cjFoaDF0Z2Ywd3JucmJycGgzciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/AbPNJPWZEkBcON0d73/giphy.gif" width="300px">
+      </p>
     </td>
   </tr>
 </table>
